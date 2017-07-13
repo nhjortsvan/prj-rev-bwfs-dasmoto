@@ -1,0 +1,39 @@
+Dasmoto's Arts & Crafts heading  use capitalize for mix case
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+h2.brushes {
+  background-color: mediumspringgreen;
+}
+
+h2.frames {
+  background-color: lightcoral;
+}
+
+h2.paint {
+  background-color: lightcoral;
+}
+  
+/* combine h1 h2 font-family font-weight */
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+p.blue {
+  font-weight: bold;
+  color: blue;
+}
+
